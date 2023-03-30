@@ -77,7 +77,7 @@ SELECT * FROM Jogadores WHERE nacionalidade <> 'Brasileiro';
 
 -- Combinando diferentes operadores lógicos:
 
---31. Selecionar todas as partidas em que a equipe vencedora foi a equipe 1 e a equipe perdedora não foi a equipe 2:
+--1. Selecionar todas as partidas em que a equipe vencedora foi a equipe 1 e a equipe perdedora não foi a equipe 2:
 
 SELECT * FROM Partidas WHERE equipe_vencedora = 1 AND equipe_perdedora <> 2;
 
