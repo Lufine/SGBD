@@ -1,3 +1,10 @@
+/*
+Curso: Engenharia de Software - UniEVANGÉLICA
+Disciplina: Sistemas Gerenciadores de Banco de Dados
+Dev: Luiz Filipe Neuwirth
+Data: 28/03/2023
+*/
+
 --Criação tabela Jogadores
 CREATE TABLE Jogadores (
 id_jogador INT PRIMARY KEY,
