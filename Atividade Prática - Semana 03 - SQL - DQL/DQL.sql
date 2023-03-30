@@ -1,3 +1,10 @@
+/*
+Curso: Engenharia de Software - UniEVANGÉLICA
+Disciplina: Sistemas Gerenciadores de Banco de Dados
+Dev: Luiz Filipe Neuwirth
+Data: 28/03/2023
+*/
+
 --100 registros para tabela Jogadores:
 
 INSERT INTO Jogadores (id_jogador, nome, apelido, data_nascimento, nacionalidade, equipe_atual) VALUES
