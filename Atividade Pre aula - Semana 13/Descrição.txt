@@ -1,0 +1,14 @@
+Curso de Engenharia de Software - UniEVANGÉLICA
+Disciplina de Sistemas Gerenciadores de Banco de Dados
+Dev: Luiz FIlipe Neuwirth
+DATA: 21/05/2023
+
+Triggers: podemos utilizar triggers para verificar quando um alimento está próximo de vencer e enviar uma notificação para o usuário. Além disso, podemos utilizar triggers para atualizar automaticamente o status de um alimento quando ele é consumido.
+
+Functions: podemos utilizar functions para calcular a data de validade de um alimento com base em sua data de fabricação e prazo de validade. Além disso, podemos utilizar functions para calcular o preço médio de um alimento com base em sua marca e peso.
+
+Views: podemos utilizar views para criar uma visualização dos alimentos armazenados na despensa virtual, permitindo que o usuário visualize facilmente os alimentos que estão próximos de vencer, os alimentos que já foram consumidos e os alimentos que estão disponíveis para consumo.
+
+Events: podemos utilizar events para agendar a verificação periódica dos alimentos armazenados na despensa virtual, permitindo que o sistema atualize automaticamente o status dos alimentos e envie notificações para o usuário quando necessário.
+
+Em resumo, as estruturas de triggers, functions, views e events podem ser utilizadas em diferentes pontos do projeto de despensa virtual para automatizar processos, melhorar a experiência do usuário e garantir a qualidade dos alimentos armazenados.
